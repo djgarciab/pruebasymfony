@@ -1,0 +1,2 @@
+# pruebasymfony
+Ejemplo de Symfony
